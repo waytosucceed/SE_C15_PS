@@ -1,0 +1,235 @@
+{
+  "heading": "Percentage",
+  "topics": [
+    {
+      "heading": "Percentage",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Convert 25% to a fraction.",
+          "options": [
+            { "image":"./assests/images/option/1.jpg" },
+            { "image":"./assests/images/option/2.jpg" },
+            { "image":"./assests/images/option/3.jpg" },
+            { "image":"./assests/images/option/4.jpg" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "What is the percentage equivalent of <sup>3</sup>&frasl;<sub>4</sub>?",
+          "options": [
+            { "text": "50%" },
+            { "text": "65%" },
+            { "text": "75%" },
+            { "text": "85%" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "Convert 60% to a decimal.",
+          "options": [
+            { "text": "0.06" },
+            { "text": "6" },
+            { "text": "0.6" },
+            { "text": "60" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "What is the percentage form of 0.05?",
+          "options": [
+            { "text": "5%" },
+            { "text": "0.5%" },
+            { "text": "50%" },
+            { "text": "0.05%" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "Convert the given mixed fraction into a percentage.<br><img width='80%' src='./assests/images/question/11.png'>",
+          "options": [
+            { "text": "230%" },
+            { "text": "220%" },
+            { "text": "214%" },
+            { "text": "225%" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 6,
+          "question": "Convert 0.75 into a percentage.",
+          "options": [
+            { "text": "7.5%" },
+            { "text": "75%" },
+            { "text": "750%" },
+            { "text": "0.75%" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "Convert the fraction <sup>7</sup>&frasl;<sub>8</sub> to a percentage.",
+          "options": [
+            { "text": "87.5%" },
+            { "text": "77.5%" },
+            { "text": "97.5%" },
+            { "text": "57.5%" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "Convert 1.5% to a decimal.",
+          "options": [
+            { "text": "0.15" },
+            { "text": "0.015" },
+            { "text": "0.0015" },
+            { "text": "1.5" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "Estimate the coloured part percentage of the whole square in the given image.<br><img width='80%' src='./assests/images/question/10.png'>",
+          "options": [
+            { "text": "13.13%" },
+            { "text": "11.11%" },
+            { "text": "12.33%" },
+            { "text": "15%" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 10,
+          "question": "What percentage is 40% of 200 kilograms?",
+          "options": [
+            { "text": "50 kilograms" },
+            { "text": "60 kilograms" },
+            { "text": "70 kilograms" },
+            { "text": "80 kilograms" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 11,
+          "question": "50% of 16 meters is ____.",
+          "options": [
+            { "text": "6 m" },
+            { "text": "7 m" },
+            { "text": "8 m" },
+            { "text": "9 m" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "A score of 240 points is what percent of 300 points?",
+          "options": [
+            { "text": "70%" },
+            { "text": "75%" },
+            { "text": "80%" },
+            { "text": "85%" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "What is 25% of 2 hours?",
+          "options": [
+            { "text": "30 minutes" },
+            { "text": "40 minutes" },
+            { "text": "45 minutes" },
+            { "text": "60 minutes" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "Express 2 minutes as a percentage of 1 hour.",
+          "options": [
+            { "text": "0.5%" },
+            { "text": "3.33%" },
+            { "text": "2.33%" },
+            { "text": "1.44%" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "A school library has 500 books, and 20% of them are for reference only. How many reference books are there?",
+          "options": [
+            { "text": "100 books" },
+            { "text": "120 books" },
+            { "text": "150 books" },
+            { "text": "200 books" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 16,
+          "question": "A student scored 45 marks out of a total of 60 in a test. What percentage of the total marks did the student score?",
+          "options": [
+            { "text": "60%" },
+            { "text": "65%" },
+            { "text": "75%" },
+            { "text": "80%" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "During a snow day, only 72 out of 90 students made it to school. What percentage of students were absent?",
+          "options": [
+            { "text": "10%" },
+            { "text": "15%" },
+            { "text": "20%" },
+            { "text": "25%" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 18,
+          "question": "A warehouse starts a month with 26,400 units of a product. By the end of the month, it had shipped out 3,960 units. What percentage of the original stock was shipped?",
+          "options": [
+            { "text": "15%" },
+            { "text": "10%" },
+            { "text": "5%" },
+            { "text": "2%" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of the following is the greatest:<br><img width='80%' src='./assests/images/question/9.png'>",
+          "options": [
+            { "image":"./assests/images/option/5.jpg" },
+            { "image":"./assests/images/option/6.jpg" },
+            { "image":"./assests/images/option/7.jpg" },
+            { "image":"./assests/images/option/8.jpg" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "In a school of 1200 students, 40% are girls and the rest are boys. If 25% of the boys and 35% of the girls are involved in the drama club, how many students in total are members of the drama club?",
+          "options": [
+            { "text": "348" },
+            { "text": "360" },
+            { "text": "402" },
+            { "text": "450" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+      
+      
+      
+    }
+  ]
+}
